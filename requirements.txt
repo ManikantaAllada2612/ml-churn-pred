@@ -1,0 +1,6 @@
+# Tested with Python 3.13. Versions are pinned so results reproduce exactly.
+pandas==3.0.5
+numpy==2.5.3
+matplotlib==3.11.2
+scikit-learn==1.9.1
+jupyter   # only needed to open churn_project.ipynb (not used by the results)

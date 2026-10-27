@@ -1,0 +1,5 @@
+model,train_f1,val_f1,f1_gap,val_precision,val_recall,val_roc_auc,tuning_cv_f1
+Logistic Regression,0.635,0.629,0.006,0.52,0.795,0.843,
+Decision Tree,0.996,0.488,0.508,0.498,0.478,0.652,
+Random Forest,0.987,0.58,0.407,0.552,0.612,0.817,0.592
+Random Forest (tuned),0.718,0.633,0.084,0.538,0.77,0.846,0.63
